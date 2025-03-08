@@ -11,8 +11,8 @@ Inside, dust-covered relics and cryptic carvings hint at a buried secret. But yo
 alone—something stirs in the shadows. Armed only with your wits and the staff you helped yourself up
 with, you must face a lurking foe before escaping.
 
-Beyond the ruins, a lone fisherman waits by the shore. He offers you passage—but only if you can 
-answer his riddles, each one drawn from the events you’ve witnessed. Fail, and you remain trapped. 
+Beyond the ruins, a lone ferryman waits by the shore. He offers you passage—but only if you can 
+answer his questions, each one drawn from the events you’ve witnessed. Fail, and you remain trapped. 
 Succeed, and you can finally escape the island.
 
 ### Controls
@@ -39,7 +39,7 @@ allowed verbs and the prompt syntax, like this:
 + Unity
 
 ### Installation
-The game was designed in Windows, for windows (a Linux alternative is still to be built).
+The game was designed in Windows, for Windows (a Linux alternative is still to be built).
 To start playing, clone the repo locally and go to the "Build" folder. Then, run the .exe file
 and enjoy!
 

@@ -1,7 +1,8 @@
 # The Return
 A text-based desktop game, developed as an assignment for the
-XAMK Intro to Game Creation course. In this game, the player is a traveller that must interact
-with their surroundings to explore the game world.
+XAMK Intro to Game Creation course. In this game, the player wakes up stranded on a seemingly
+empty island, and in order to escape, they must interact with their surroundings and gather clues
+to complete the final challenge.
 ## How to play
 
 ### Gameplay
@@ -26,8 +27,9 @@ followed by an enter. Allowed nouns are written in bold throughout the story, li
 
 ![alt](https://github.com/ana-512-git/text-based-game-XAMK/blob/main/readme-media/example-nouns.png?raw=true)
 
-The following verbs are allowed: go, get, say, talkto, use, examine, inventory, help. give, read.
-Only "inventory" and "help" are exceptions to the prompt syntax rule.
+The following verbs are allowed: "go", "get", "say", "talkto", "use", "examine", "inventory", "help", "give", "read".
+Only "inventory" and "help" are exceptions to the prompt syntax rule (they must be used alone,
+followed by an enter).
 If, during the game, you want to revisit these rules, 
 type "help" followed by enter in the text box and a short manual page will appear, listing the 
 allowed verbs and the prompt syntax, like this:

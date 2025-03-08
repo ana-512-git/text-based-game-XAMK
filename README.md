@@ -18,11 +18,11 @@ Succeed, and you can finally escape the island.
 ### Controls
 Interaction with the game world happens via the text box situated at the bottom-middle side of the
 game. 
-<![alt](https://github.com/ana-512-git/text-based-game-XAMK/blob/main/readme-media/image.png>
+<![alt](https://github.com/ana-512-git/text-based-game-XAMK/blob/main/readme-media/image.png)>
 
 In order to explore the world, the player has to type prompts made of a verb and noun pair, 
 followed by an enter. Allowed nouns are written in bold throughout the story, like this:
-<![alt](https://github.com/ana-512-git/text-based-game-XAMK/blob/main/readme-media/example-nouns.png?raw=true)>
+![alt](https://github.com/ana-512-git/text-based-game-XAMK/blob/main/readme-media/example-nouns.png?raw=true)
 
 The following verbs are allowed: "(...)". If, during the game, you want to revisit these rules, 
 type "help" followed by enter in the text box and a short manual page will appear, listing the 
